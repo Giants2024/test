@@ -17,3 +17,10 @@
 //
 //	return 0;
 //}
+#include<stdio.h>
+int main()
+{
+	printf("hehe");
+
+	return 0;
+}
